@@ -12,7 +12,7 @@ We have are going to bootstrap this project by using `create-react-app` and addi
 
 * fork and clone this repo
 * cd into the clone repo on your local machine
-* run `npm create-react-app .` to create a react app in the directory you just cloned
+* run `npx create-react-app .` to create a react app in the directory you just cloned
 * replace the code in the file `./src/index.css` with the following:
 
 ```css
