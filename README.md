@@ -13,7 +13,7 @@ We have are going to bootstrap this project by using `create-react-app` and addi
 * fork and clone this repo
 * cd into the clone repo on your local machine
 * run `npx create-react-app .` to create a react app in the directory you just cloned
-* add the following line to in the `<head>` tag of `./public/index.html`, just above the `<title>` tag
+* add the following line to in the `<head>` tag of `./public/index.html`, just above the `<title>` tag, this will give us access to [Google's Material Icons](https://fonts.google.com/icons?icon.style=Outlined)
 
 ```html
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
